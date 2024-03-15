@@ -12,7 +12,7 @@
 #if 0
 // #include "MurmurHash3.h"
 #else
-#include "inc/t4/wyhash.h"
+#include "include/t4/wyhash.h"
 #endif
 
 #if 0
